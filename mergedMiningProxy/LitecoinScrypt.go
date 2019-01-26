@@ -1,7 +1,7 @@
 package main
 
 import (
-	"golang.org/x/crypto/scrypt"
+	"crypto/scrypt"
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
